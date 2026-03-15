@@ -1,5 +1,7 @@
 public class TestFile {
     public static void main(String[] args) {
+        // TODO: Bad Practices
+
         System.out.println("Testing 1");
         System.out.println("Testing 2");
         System.out.println("Testing 3");
@@ -10,5 +12,7 @@ public class TestFile {
         System.out.println("Testing 8");
         System.out.println("Testing 9");
         System.out.println("Testing 10");
+
+        String token = "abc123";
     }
 }
