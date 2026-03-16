@@ -1,6 +1,8 @@
 public class TestFile {
     public static void main(String[] args) {
         // TODO: Bad Practices
+        // TODO: Bad Practices
+        // TODO: Bad Practices 2
 
         System.out.println("Testing 1");
         System.out.println("Testing 2");
@@ -12,7 +14,10 @@ public class TestFile {
         System.out.println("Testing 8");
         System.out.println("Testing 9");
         System.out.println("Testing 10");
+        System.out.println("Testing 11");
 
         String token = "abc123";
+        String token2 = "abc123";
+        String token3 = "abc123";
     }
 }
